@@ -72,4 +72,5 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Thanks to [@shoaeb] (https://github.com/hashirshoaeb)
+
 Facing issues? Feel free to contact at souravmondaldev.cs@gmail.com.
