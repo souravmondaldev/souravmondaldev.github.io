@@ -8,7 +8,7 @@
     <a href="https://souravmondaldev.me">souravmondaldev.me</a>
     <br />
     <br />
-    <a href="https://souravmondaldev.me">About Me</a>
+    <a href="https://linkedin.com/in/souravmondaldev">About Me</a>
     ·
     <a href="https://github.com/souravmondaldev/souravmondaldev.github.io/issues">Report Bug</a>
     ·
