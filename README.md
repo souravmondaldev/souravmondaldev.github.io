@@ -10,8 +10,6 @@
     <br />
     <a href="https://souravmondaldev.me">About Me</a>
     ·
-    <a href="https://github.com/souravmondaldev/souravmondaldev.github.io/issues">Report Bug</a>
-    ·
     <a href="https://github.com/souravmondaldev/souravmondaldev.github.io/issues">Request Feature</a>
   </p>
 </p>
