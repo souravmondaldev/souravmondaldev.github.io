@@ -1,2 +1,2 @@
-# souravmondaldev.github.io
+# SouravMondalDEV
 My developer portfolio. Visit here: https://souravmondaldev.me
